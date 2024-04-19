@@ -10,7 +10,7 @@ _python run_learner.py --model HyperTLearner --dataset $dataset --n $n --p $p --
 Then look for '_hn_utils.py'_ and '_hypernetworks.py'_ under moldels folder
 
 ## Paper Link
-[Vinod Kumar Chauhan, Jiandong Zhou, Ghadeer Ghosheh, Soheila Molaei, David A Clifton Proceedings of The 27th International Conference on Artificial Intelligence and Statistics, PMLR 238:3529-3537, 2024.](https://proceedings.mlr.press/v238/kumar-chauhan24a.html)
+[Vinod Kumar Chauhan, Jiandong Zhou, Ghadeer Ghosheh, Soheila Molaei, David A Clifton 'Dynamic Inter-treatment Information Sharing for Individualized Treatment Effects Estimation', Proceedings of The 27th International Conference on Artificial Intelligence and Statistics, PMLR 238:3529-3537, 2024.](https://proceedings.mlr.press/v238/kumar-chauhan24a.html)
 
 ## Citation
 In case you find the code helpful, please consider citing our work:
