@@ -10,15 +10,16 @@ _python run_learner.py --model HyperTLearner --dataset $dataset --n $n --p $p --
 Then look for '_hn_utils.py'_ and '_hypernetworks.py'_ under moldels folder
 
 ## Paper Link
-[Vinod Kumar Chauhan, Jiandong Zhou, Ghadeer Ghosheh, Soheila Molaei, David A Clifton 'Dynamic Inter-treatment Information Sharing for Individualized Treatment Effects Estimation', Proceedings of The 27th International Conference on Artificial Intelligence and Statistics, PMLR 238:3529-3537, 2024.](https://proceedings.mlr.press/v238/kumar-chauhan24a.html)
+[Vinod Kumar Chauhan, Jiandong Zhou, Ghadeer Ghosheh, Soheila Molaei, David A Clifton 'Dynamic Inter-treatment Information Sharing for Individualized Treatment Effects Estimation', Proceedings of The 27th International Conference on Artificial Intelligence and Statistics, PMLR 238:3529-3537, 2024.](https://proceedings.mlr.press/v238/chauhan24a.html)
 
 ## Citation
 In case you find the code helpful, please consider citing our work:
 ```bibtex
 
-@InProceedings{pmlr-v238-kumar-chauhan24a,
-  title = 	 {Dynamic Inter-treatment Information Sharing for Individualized Treatment Effects Estimation },
-  author =    {Chauhan, Vinod Kumar and Zhou, Jiandong and Ghosheh, Ghadeer and Molaei, Soheila and A Clifton, David},
+
+@InProceedings{pmlr-v238-chauhan24a,
+  title = 	 { Dynamic Inter-treatment Information Sharing for Individualized Treatment Effects Estimation },
+  author =   {Chauhan, Vinod Kumar and Zhou, Jiandong and Ghosheh, Ghadeer and Molaei, Soheila and A Clifton, David},
   booktitle = {Proceedings of The 27th International Conference on Artificial Intelligence and Statistics},
   pages = 	 {3529--3537},
   year = 	 {2024},
@@ -27,9 +28,8 @@ In case you find the code helpful, please consider citing our work:
   series = 	 {Proceedings of Machine Learning Research},
   month = 	 {02--04 May},
   publisher =    {PMLR},
-  pdf = 	 {https://proceedings.mlr.press/v238/kumar-chauhan24a/kumar-chauhan24a.pdf},
-  url = 	 {https://proceedings.mlr.press/v238/kumar-chauhan24a.html},
 }
+
 
 ```
 ## Contact:
